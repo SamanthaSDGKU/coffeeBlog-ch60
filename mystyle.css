@@ -1,0 +1,22 @@
+body{
+    font-family: arial;
+}
+img{
+    max-width: 100%;
+}
+header{
+    background-image: url(./img/banner.jpg);
+    background-size: cover;
+    height: 300px;
+    color:white;
+    text-align: center;
+}
+
+.btn{
+    background-color: black;
+    color:white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 12px;
+    padding: 10px;
+}
